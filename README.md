@@ -1,4 +1,4 @@
-# MAX PROCESSOR
+# MAX Archive
 
 In this repository, I'll be revisiting and restoring patches that I've been programming since 2003. Some of them were originally created in Pure Data and are now being rebuilt in Max to keep them functional and accessible.
 
